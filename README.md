@@ -7,7 +7,7 @@ This portfolio is designed with a clean UI, professional color palette, and mobi
 ---
 
 ##  Live Demo
-[Click Here to View Project](https://calculator-project-iota-sage.vercel.app/)
+[Click Here to View Project](https://my-portfolio-iota-lilac-17.vercel.app/)
 
 ---
 
